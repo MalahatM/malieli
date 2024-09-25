@@ -1,5 +1,9 @@
 section{
-	background-color: #00ffff;
+	background-color: #295d5d;
 	width: 80em;
-	height: 20em;
+	height: 7em;
+	color: #ffffff;
+	font-size: 25px;
+	display: flex;
+	padding: 20px;
 }
